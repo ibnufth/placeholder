@@ -1,17 +1,17 @@
 {
-  "login": 
-    {"data" :
-      { "otp": "1982" }
+  "login": {
+    "data": {
+      "otp": "1982"
     }
-  ,
-  "verify_otp": 
-    { 
-      {"data" :
+  },
+  "verify_otp": {
+    "data": {
       "user": {
-        "id": 1, 
-      "username" : "compact vast",
-      "avatar" : "https://picsum.photos/400"
-      }, 
-      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzEyOTMzOTEuMjk4NjI5LCJpYXQiOjE3MDAxODkzOTEsInVzZXIiOnsidXNlcm5hbWUiOiJhZG1pbiIsImVtYWlsIjoiYWRtaW5Ac3VwZXIuY29tIiwibmlrIjoiUzIzNzYzNDkzMCIsImZ1bGxuYW1lIjoiQURNSU4iLCJzdXBlcnZpc29yIjpudWxsLCJvcmdhbml6YXRpb24iOm51bGwsImVtcGxveWVlX2xldmVsIjpudWxsLCJlbXBsb3llZV9wb3NpdGlvbiI6bnVsbH19.eqdwHc1d033xhYE8e6jVmBjr9IHLH01ljJqO8LouGeA"}
-}
+        "id": 1,
+        "username": "compact vast",
+        "avatar": "https://picsum.photos/400"
+      },
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzEyOTMzOTEuMjk4NjI5LCJpYXQiOjE3MDAxODkzOTEsInVzZXIiOnsidXNlcm5hbWUiOiJhZG1pbiIsImVtYWlsIjoiYWRtaW5Ac3VwZXIuY29tIiwibmlrIjoiUzIzNzYzNDkzMCIsImZ1bGxuYW1lIjoiQURNSU4iLCJzdXBlcnZpc29yIjpudWxsLCJvcmdhbml6YXRpb24iOm51bGwsImVtcGxveWVlX2xldmVsIjpudWxsLCJlbXBsb3llZV9wb3NpdGlvbiI6bnVsbH19.eqdwHc1d033xhYE8e6jVmBjr9IHLH01ljJqO8LouGeA"
+    }
+  }
 }
